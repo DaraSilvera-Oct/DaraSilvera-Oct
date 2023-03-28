@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaraSilvera-Oct, I'm 23 years old.
+- 👋 Hi, I’m @DaraSilvera-Oct, I'm 24 years old.
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning react, react native and django
 - 📫 How to reach me darasilvera@hotmail.com
